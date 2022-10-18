@@ -7,5 +7,5 @@ The dataset that you will be wrangling, analyzing, and visualizing is the tweet 
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for us to use in this project. This archive contains primary tweet data (tweet ID, timestamp, text, etc.) for all 5000+ tweets as they stood on August 1, 2017. The WerRateDog Twitter archive have been filtered to tweets with ratings only (there are now 2356 tweets).
 
-Note: You can fine more information on the steps taken in the analysis in the wrangle_report.pdf file and the report of the analysis in the act_report.pdf (which contain all the visualization from the analysis)
+Note: You can fine more information on the steps taken in the analysis in the `wrangle_report.pdf` file and the report of the analysis in the `act_report.pdf` (which contain all the visualization from the analysis)
 
